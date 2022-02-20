@@ -1,5 +1,5 @@
 {
-  "name": "fapp-api",
+  "name": "pdfgen-api",
   "version": "0.1.0",
   "private": true,
   "scripts": {
